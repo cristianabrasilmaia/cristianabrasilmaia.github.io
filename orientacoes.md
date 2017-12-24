@@ -39,7 +39,8 @@ Cristiano Henrique Gonçalves de Brito. Análise termofluidodinâmica do desempe
 
 Paulo Vieira Netto. Estudo da redução de atrito em um motor de combustão interna através da melhoria do circuito de lubrificação. 2017.
 
-João Rodolfo Januário. Modelagem e simulação numérica do escoamento de polpas minerais. 2017. http://www.biblioteca.pucminas.br/teses/EngMecanica_JanuarioJR_1.pdf
+João Rodolfo Januário. Modelagem e simulação numérica do escoamento de polpas minerais. 2017. 
+[Versão completa](http://www.biblioteca.pucminas.br/teses/EngMecanica_JanuarioJR_1.pdf)
 
 Leonardo Fonseca Lana. Estudo numérico do escoamento ao redor de um cilindro circular inserido em um túnel de vento para baixos números de Reynolds. 2015. http://www.biblioteca.pucminas.br/teses/EngMecanica_LanaLF_1.pdf
 
