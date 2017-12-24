@@ -14,6 +14,6 @@ Tenho interesse na área de Engenharia Mecânica, com ênfase em sistemas térmi
 
 [Orientações em andamento e concluídas](/orientacoes.md)
 
-[Projetos em andamento](/projeto.md)
+[Projetos em andamento](/projetos.md)
 
-[Artigos publicados](/publicacoes.md)
+[Artigos publicados](/producoes.md)
