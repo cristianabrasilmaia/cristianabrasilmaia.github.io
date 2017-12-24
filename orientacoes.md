@@ -42,7 +42,7 @@ Paulo Vieira Netto. Estudo da redução de atrito em um motor de combustão inte
 João Rodolfo Januário. Modelagem e simulação numérica do escoamento de polpas minerais. 2017. 
 [Versão completa](http://www.biblioteca.pucminas.br/teses/EngMecanica_JanuarioJR_1.pdf)
 
-Leonardo Fonseca Lana. Estudo numérico do escoamento ao redor de um cilindro circular inserido em um túnel de vento para baixos números de Reynolds. 2015. 
+Leonardo Fonseca Lana. Estudo numérico do escoamento ao redor de um cilindro circular inserido em um túnel de vento para baixos números de Reynolds. 2015
 [Versão completa](http://www.biblioteca.pucminas.br/teses/EngMecanica_LanaLF_1.pdf)
 
 Luiz Fernando Ribeiro Ledo. Análise numérica do escoamento de ar em um túnel de vento para baixas velocidades. 2016. 
