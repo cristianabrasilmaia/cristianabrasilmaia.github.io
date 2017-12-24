@@ -1,4 +1,4 @@
- ![GitHub logo](/foto.jpg)
+![GitHub logo](/foto.jpg)
 
 # Cristiana Brasil Maia
 
@@ -12,8 +12,8 @@ Mechanical Engineering, with emphasis on thermal and fluid systems. My current r
 
 [Subjects](/disciplinas.md)
 
-[Studnts](/orientacoes.md)
+[Students](/orientacoes.md)
 
-[Projects](/projeto.md)
+[Projects](/projetos.md)
 
 [Published papers](/publicacoes.md)
