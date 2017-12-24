@@ -42,23 +42,32 @@ Paulo Vieira Netto. Estudo da redução de atrito em um motor de combustão inte
 João Rodolfo Januário. Modelagem e simulação numérica do escoamento de polpas minerais. 2017. 
 [Versão completa](http://www.biblioteca.pucminas.br/teses/EngMecanica_JanuarioJR_1.pdf)
 
-Leonardo Fonseca Lana. Estudo numérico do escoamento ao redor de um cilindro circular inserido em um túnel de vento para baixos números de Reynolds. 2015. http://www.biblioteca.pucminas.br/teses/EngMecanica_LanaLF_1.pdf
+Leonardo Fonseca Lana. Estudo numérico do escoamento ao redor de um cilindro circular inserido em um túnel de vento para baixos números de Reynolds. 2015. 
+[Versão completa](http://www.biblioteca.pucminas.br/teses/EngMecanica_LanaLF_1.pdf)
 
-Luiz Fernando Ribeiro Ledo. Análise numérica do escoamento de ar em um túnel de vento para baixas velocidades. 2016. http://www.biblioteca.pucminas.br/teses/EngMecanica_LedoLFR_1r.pdf
+Luiz Fernando Ribeiro Ledo. Análise numérica do escoamento de ar em um túnel de vento para baixas velocidades. 2016. 
+[Versão completa](http://www.biblioteca.pucminas.br/teses/EngMecanica_LedoLFR_1r.pdf)
 
-Cristiano Henrique Gonçalves de Brito. Análise do perfil de temperaturas no duto de exaustão de um motor diesel. 2014. http://www.biblioteca.pucminas.br/teses/EngMecanica_BritoCHG_1.pdf
+Cristiano Henrique Gonçalves de Brito. Análise do perfil de temperaturas no duto de exaustão de um motor diesel. 2014. 
+[Versão completa](http://www.biblioteca.pucminas.br/teses/EngMecanica_BritoCHG_1.pdf)
 
-Janaína de Oliveira Castro Silva. Análise Termodinâmica e Otimização de uma Chaminé Solar. 2014. http://www.biblioteca.pucminas.br/teses/EngMecanica_SilvaJOC_1.pdf
+Janaína de Oliveira Castro Silva. Análise Termodinâmica e Otimização de uma Chaminé Solar. 2014. 
+[Versão completa](http://www.biblioteca.pucminas.br/teses/EngMecanica_SilvaJOC_1.pdf)
 
-Guilherme Loyola de Vasconcellos. Estudo numérico e experimental do escoamento de ar em um túnel de vento para baixas velocidades. 2013. http://www.biblioteca.pucminas.br/teses/EngMecanica_VasconcellosGLF_1.pdf
+Guilherme Loyola de Vasconcellos. Estudo numérico e experimental do escoamento de ar em um túnel de vento para baixas velocidades. 2013.
+[Versão completa](http://www.biblioteca.pucminas.br/teses/EngMecanica_VasconcellosGLF_1.pdf)
 
-Leandro Pires Gonçalves. Dimensionamento e Otimização de Trocadores de Calor de Casco e Tubos para um Ciclo Rankine Orgânico Solar. 2012. http://www.biblioteca.pucminas.br/teses/EngMecanica_GonçalvesLP_1.pdf
+Leandro Pires Gonçalves. Dimensionamento e Otimização de Trocadores de Calor de Casco e Tubos para um Ciclo Rankine Orgânico Solar. 2012. 
+[Versão completa](http://www.biblioteca.pucminas.br/teses/EngMecanica_GonçalvesLP_1.pdf)
 
 Alessandro Zanetti. Condicionamento de Ar de um Veículo Através de um Ciclo de Refrigeração por Absorção. 2011. 
 
-Fabrício Cardinali Rezende. Avaliação experimental da distribuição de temperaturas nos componentes plásticos de um veículo. 2010. http://www.biblioteca.pucminas.br/teses/EngMecanica_RezendeFC_1.pdf
+Fabrício Cardinali Rezende. Avaliação experimental da distribuição de temperaturas nos componentes plásticos de um veículo. 2010. 
+[Versão completa](http://www.biblioteca.pucminas.br/teses/EngMecanica_RezendeFC_1.pdf)
 
-Matheus Donizete de Queiróz. Caracterização Numérica e Experimental da Seção de Testes de um Túnel de > Vento para Baixas Velocidades. 2010. http://www.biblioteca.pucminas.br/teses/EngMecanica_QueirozMD_1.pdf
+Matheus Donizete de Queiróz. Caracterização Numérica e Experimental da Seção de Testes de um Túnel de > Vento para Baixas Velocidades.2010. 
+[Versão completa](http://www.biblioteca.pucminas.br/teses/EngMecanica_QueirozMD_1.pdf)
 
-Gustavo Gamaliel Alves de Souza. Análise Numérica do Escoamento de Ar na Seção de Testes de um Túnel de Vento para Baixas Velocidades. 2009. http://www.biblioteca.pucminas.br/teses/EngMecanica_SouzaGG_1r.pdf
+Gustavo Gamaliel Alves de Souza. Análise Numérica do Escoamento de Ar na Seção de Testes de um Túnel de Vento para Baixas Velocidades. 2009. 
+[Resumo](http://www.biblioteca.pucminas.br/teses/EngMecanica_SouzaGG_1r.pdf)
 
