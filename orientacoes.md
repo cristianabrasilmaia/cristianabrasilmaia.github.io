@@ -14,6 +14,10 @@ Guilherme Loyola França de Vasconcellos. Avaliação do sistema de refrigeraç�
 
 Janaína de Oliveira Castro Silva. Avaliação Numérica e Experimental de uma Chaminé Solar Modular.
 
+### Pós-doutorado
+
+Paulo Tibúrcio Pereira. Estudo e otimização do aquecimento por indução eletromagnética comparando materiais e frequências de operação.
+
 ### Iniciação científica
 
 Leonardo Batista Diniz. Avaliação da influência das condições de ensaio na eficiência de um coletor solar fechado.
@@ -33,10 +37,6 @@ Rêydila Rayenne Caminhas Barbosa. Avaliação de um secador híbrido solar-elé
 Caio Almeida Friche Passos. Análise de uma recuperadora de minério utilizando o método de interação fluido estrutura.
 
 Rubens Perdigão Diz Oliveira. Análise de uma recuperadora de minério utilizando o método de interação fluido estrutura.
-
-### Pós-doutorado
-
-Paulo Tibúrcio Pereira. Estudo e otimização do aquecimento por indução eletromagnética comparando materiais e frequências de operação.
 
 ## **Co-orientações em andamento**
 
