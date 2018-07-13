@@ -12,8 +12,6 @@ Gisele Mol da Silva. Análise teórica e experimental da operação de um secado
 
 Guilherme Loyola França de Vasconcellos. Avaliação do sistema de refrigeração por absorção utilizando os gases de exaustão de um motor diesel
 
-Janaína de Oliveira Castro Silva. Avaliação Numérica e Experimental de uma Chaminé Solar Modular.
-
 ### Pós-doutorado
 
 Paulo Tibúrcio Pereira. Estudo e otimização do aquecimento por indução eletromagnética comparando materiais e frequências de operação.
@@ -22,13 +20,7 @@ Paulo Tibúrcio Pereira. Estudo e otimização do aquecimento por indução elet
 
 Leonardo Batista Diniz. Avaliação da influência das condições de ensaio na eficiência de um coletor solar fechado.
 
-Daniel Sales Santos Machado. Avaliação da viabilidade técnica de uma chaminé solar de pequenas dimensões.
-
-Felipe Venâncio Mitkiewicz Silva. Avaliação numérica de um coletor de piscina. 
-
 João Arthur Daconti e Silva. Análise numérica de uma chaminé solar de pequenas dimensões.
-
-Eduardo Pessotti de Deus. Análise numérica de uma chaminé solar de pequenas dimensões.
 
 Diogo do Carmo Zidan. Avaliação de um secador híbrido solar-elétrico.
 
@@ -38,6 +30,8 @@ Caio Almeida Friche Passos. Análise de uma recuperadora de minério utilizando 
 
 Rubens Perdigão Diz Oliveira. Análise de uma recuperadora de minério utilizando o método de interação fluido estrutura.
 
+Vítor Lomeu Cerqueira. Avaliação numérica e experimental de um arranjo de cilindros em um túnel de vemto.
+
 ## **Co-orientações em andamento**
 
 ## Teses de doutorado
@@ -46,6 +40,10 @@ Cristiano Henrique Gonçalves de Brito. Análise termofluidodinâmica do desempe
 
 
 ## **Orientações concluídas**
+
+### Tese de doutorado:
+
+Janaína de Oliveira Castro Silva. Avaliação Numérica e Experimental de uma Chaminé Solar Modular. 2018.
 
 ### Dissertações de mestrado:
 
