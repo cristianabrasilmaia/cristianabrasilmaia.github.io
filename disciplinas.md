@@ -16,9 +16,9 @@ Atividades práticas envolvendo o conteúdo de mecânica dos fluidos e máquinas
 ## Convecção
 Princípios da conservação da massa. Quantidade de movimento e energia. Convecção em regime laminar no escoamento em dutos e camada limite. Fundamentos de turbulência. Convecção em regime turbulento no escoamento em dutos e camada limite. Convecção natural. Soluções por similaridade e por integração.
 
-Próxima turma: 1º. Semestre/2018
+Próxima turma: 1º. Semestre/2020
 
-## Dinâmica do Fluidos Computacional
+## Dinâmica dos Fluidos Computacional
 Ementa: Revisão e classificação dos escoamentos. Equações de conservação: massa, momentum. Fundamentos da solução numérica de escoamentos. Conceitos de diferença, volume e elementos finitos. Discretização das equações. Formulações numéricas para aproximação do termo convectivo. Algoritmos iterativos para escoamentos incompressíveis. Métodos segregados e acoplados. Estabilidade e precisão da solução numérica. Malhas estruturadas e não estruturadas. Sistemas de coordenadas generalizadas. Técnicas de geração de malha computacional.
 
 Próxima turma: 2º. Semestre/2019
@@ -26,4 +26,4 @@ Próxima turma: 2º. Semestre/2019
 ## Radiação e Energia Solar
 Radiação: Processos e propriedades. Transferência de radiação entre superfícies. Introdução à Energia Solar - aplicações ative e passiva. Radiação Solar: Sol e Geometria solar. Energia Solar Térmica: coletores solares
 
-Próxima turma: 2º. Semestre/2018
+Próxima turma: 2º. Semestre/2020
