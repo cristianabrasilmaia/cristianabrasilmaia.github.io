@@ -57,7 +57,7 @@ Janaína de Oliveira Castro Silva. Avaliação Numérica e Experimental de uma C
 Jésus Fernandes Júnior. Estudo numérico e experimental do escoamento ao redor de dois cilindros circulares em um túnel de vento . 2019.
 
 Paulo Vieira Netto. Estudo da redução de atrito em um motor de combustão interna através da melhoria do circuito de lubrificação. 2017.
-http://www.biblioteca.pucminas.br/teses/EngMecanica_NettoPV_1.pdf
+[Versão completa](http://www.biblioteca.pucminas.br/teses/EngMecanica_NettoPV_1.pdf)
 
 João Rodolfo Januário. Modelagem e simulação numérica do escoamento de polpas minerais. 2017. 
 [Versão completa](http://www.biblioteca.pucminas.br/teses/EngMecanica_JanuarioJR_1.pdf)
