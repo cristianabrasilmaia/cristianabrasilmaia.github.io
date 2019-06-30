@@ -1,4 +1,4 @@
-## **Artigos em periódicos**
+## **Artigos em periódicos (Papers)**
 
 Januário, J.R. ; Maia, C.B. CFD-DEM Simulation to Predict the Critical Velocity of Slurry Flows. Journal of Applied Fluid Mechanics, 2020. (Aceito para publicação. Disponível online)
 
@@ -54,7 +54,7 @@ Ferreira, A. G.; Charbel, A.L.T.; Pires, R.L.; Silva, J.G.; Maia, C. B. Experime
 
 Ferreira, A. G.; Maia, C. B.; Valle, R.M.; Cortez, M.F.B. Balanço energético de uma chaminé solar. Ciência & Engenharia, v.15, p.37 - 43, 2006.
 
-## **Capítulos de livros publicados**
+## **Capítulos de livros publicados (Book chapters)**
 
 Costa, S.C.S.; Castro Silva, J.O.; Maia, C.B.; Diniz, A.S.A.C. Análise energética e exergética de módulos fotovoltaocos de silício monocristalino e policristalino. In: Paulo Jayme Pereira Abdala. (Org.). Energia solar e eólica. 1ed.Belo Horizonte: Antonella Carvalho de Oliveira, 2019, v. 1, p. 87-102.
 
