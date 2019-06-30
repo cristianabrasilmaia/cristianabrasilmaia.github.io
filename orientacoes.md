@@ -2,15 +2,22 @@
 
 ### Dissertações de mestrado
 
+Felipe Venâncio Mitikiewicz Silva. Estudo de uma chaminé solar para dessalinização.
+
 Moisés de Paula Gouvea. Análise estrutural de um virador de vagão submetido a ventos marítimos pelo método de iteração fluido estrutural. 
 
-Jésus Fernandes Júnior. Avaliação numérica e experimental de um arranjo de cilindros em um túnel de vento. 
 
 ### Teses de doutorado:
 
 Gisele Mol da Silva. Análise teórica e experimental da operação de um secador solar misto de cabine com sistema fotovoltaico acoplado para secagem de grãos de milho.
 
-Guilherme Loyola França de Vasconcellos. Avaliação do sistema de refrigeração por absorção utilizando os gases de exaustão de um motor diesel
+Guilherme Loyola França de Vasconcellos. Avaliação do sistema de refrigeração por absorção utilizando os gases de exaustão de um motor diesel.
+
+Matheus Dutra Baptista Oliveira. Análise computacional de escoamento multifásico em processo de filtragem.
+
+João Rodolfo Januário. Análise da estabilidade de equipamentos de movimentação utilizando interação fluido estrutura. 
+
+Hairton Júnior José da Silveira. Análise Termoeconômica de um ciclo Rankine Orgânico Solar. 
 
 ### Pós-doutorado
 
@@ -47,7 +54,10 @@ Janaína de Oliveira Castro Silva. Avaliação Numérica e Experimental de uma C
 
 ### Dissertações de mestrado:
 
+Jésus Fernandes Júnior. Estudo numérico e experimental do escoamento ao redor de dois cilindros circulares em um túnel de vento . 2019.
+
 Paulo Vieira Netto. Estudo da redução de atrito em um motor de combustão interna através da melhoria do circuito de lubrificação. 2017.
+http://www.biblioteca.pucminas.br/teses/EngMecanica_NettoPV_1.pdf
 
 João Rodolfo Januário. Modelagem e simulação numérica do escoamento de polpas minerais. 2017. 
 [Versão completa](http://www.biblioteca.pucminas.br/teses/EngMecanica_JanuarioJR_1.pdf)
