@@ -51,6 +51,7 @@ Cristiano Henrique Gonçalves de Brito. Análise termofluidodinâmica do desempe
 ### Tese de doutorado:
 
 Janaína de Oliveira Castro Silva. Avaliação Numérica e Experimental de uma Chaminé Solar Modular. 2018.
+[Versão completa](http://www.biblioteca.pucminas.br/teses/EngMecanica_SilvaJO_1.pdf)
 
 ### Dissertações de mestrado:
 
