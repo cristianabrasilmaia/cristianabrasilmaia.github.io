@@ -56,6 +56,8 @@ Ferreira, A. G.; Maia, C. B.; Valle, R.M.; Cortez, M.F.B. Balanço energético d
 
 ## **Capítulos de livros publicados**
 
+Costa, S.C.S.; Castro Silva, J.O.; Maia, C.B.; Diniz, A.S.A.C. Análise energética e exergética de módulos fotovoltaocos de silício monocristalino e policristalino. In: Paulo Jayme Pereira Abdala. (Org.). Energia solar e eólica. 1ed.Belo Horizonte: Antonella Carvalho de Oliveira, 2019, v. 1, p. 87-102.
+
 Castro Silva, J.O.; Fernandes, T.S.; Hanriot, S.M.; Diniz, A.S.A.C.; , Maia, C.B. A model to estimate ambient conditions and behavior of the airflow inside a solar chimney In: Renewable Energy in the Service of Mankind Vol II.1 ed.Basel : Springer International Publishing, 2016, v.59, p. 661-671
 
 Arrieta, F.P.R.; Maia, C.B., Castro Silva, J.O.C. Cogeneration In: Hydrogen and Other Technologies.1, 2015, v.11, p. 500-550
