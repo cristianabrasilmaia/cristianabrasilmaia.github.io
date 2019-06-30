@@ -16,4 +16,4 @@ Mechanical Engineering, with emphasis on thermal and fluid systems. My current r
 
 [Projects](/projetos.md)
 
-[Papers](/producoes.md)
+[Publications](/producoes.md)
