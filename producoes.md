@@ -1,5 +1,13 @@
 ## **Artigos em periódicos**
 
+Januário, J.R. ; Maia, C.B. CFD-DEM Simulation to Predict the Critical Velocity of Slurry Flows. Journal of Applied Fluid Mechanics, 2020. (Aceito para publicação. Disponível online)
+
+Hanriot, S.M.; Queiroz, J.M.; Maia, C.B. Effects of variable-volume Helmholtz resonator on air mass flow rate of intake manifold. JOURNAL OF THE BRAZILIAN SOCIETY OF MECHANICAL SCIENCES AND ENGINEERING (ONLINE), v. 41, p. 1-27, 2019.
+
+Hanriot, S.M.; Brito, P.P. ; Maia, C.B.; Rêgo, A.T. Analysis of working parameters for an ammonia-water absorption refrigeration system powered by automotive exhaust gas. CASE STUDIES IN THERMAL ENGINEERING, v. 13, p. 100406, 2019.
+
+Maia, C.B.; Silva, F.V.M. ; Oliveira, V.L.C. ; Kazmerski, L.L. . An overview of the use of solar chimneys for desalination. SOLAR ENERGY, v. 183, p. 83-95, 2019.
+
 Maia, C.B.;Ferreira, A.G. ; Cabezas-Gómez, L., Castro Silva, J.O.; Hanriot, S.M. Thermodynamic analysis of the drying process of bananas in a small-scale solar updraft tower in Brazil. RENEWABLE ENERGY, v.114, p.1005 - 1012, 2017
 
 Kazmerski, L.L.; Diniz, A.S.A.C.; Maia, C.B., Viana, M.M.; Costa, S.C.; Brito, P.P.; Campos, C.D.; Machado Neto, L.V.; Hanriot, SM.; Cruz, Leila R.O. Fundamental studies of adhesion of dust to PV module surfaces: chemical and physical relationships at the microscale. IEEE Journal of Photovoltaics., v.1, p.1 - 11, 2016.
