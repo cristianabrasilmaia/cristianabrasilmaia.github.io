@@ -8,7 +8,7 @@ Eu me formei em *Engenharia Mecânica* em 1997 pela Universidade Federal de Mina
 
 
 ## Áreas de interesse
-Tenho interesse na área de Engenharia Mecânica, com ênfase em sistemas térmicos e fluidos. Minhas linhas de pesquisa atuais são energia solar, chaminé solar, secagem solar, túnel de vento e Dinâmica dos Fluidos Computacional (CFD).
+Tenho interesse na área de Engenharia Mecânica, com ênfase em sistemas térmicos e fluidos. Minhas linhas de pesquisa atuais são energia solar, chaminé solar, secagem solar, dessalinização, túnel de vento, interação fluido estrutura (FSI) e Dinâmica dos Fluidos Computacional (CFD).
 
 ### [Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4763983J1)
 
