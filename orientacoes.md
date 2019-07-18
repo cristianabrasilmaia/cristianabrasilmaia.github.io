@@ -9,8 +9,6 @@ Moisés de Paula Gouvea. Análise estrutural de um virador de vagão submetido a
 
 ### Teses de doutorado:
 
-Gisele Mol da Silva. Análise teórica e experimental da operação de um secador solar misto de cabine com sistema fotovoltaico acoplado para secagem de grãos de milho.
-
 Guilherme Loyola França de Vasconcellos. Avaliação do sistema de refrigeração por absorção utilizando os gases de exaustão de um motor diesel.
 
 Matheus Dutra Baptista Oliveira. Análise computacional de escoamento multifásico em processo de filtragem.
@@ -49,6 +47,8 @@ Cristiano Henrique Gonçalves de Brito. Análise termofluidodinâmica do desempe
 ## **Orientações concluídas**
 
 ### Tese de doutorado:
+
+Gisele Mol da Silva. Análise teórica e experimental da operação de um secador solar misto de cabine com sistema fotovoltaico acoplado para secagem de grãos de milho. 2019.
 
 Janaína de Oliveira Castro Silva. Avaliação Numérica e Experimental de uma Chaminé Solar Modular. 2018.
 [Versão completa](http://www.biblioteca.pucminas.br/teses/EngMecanica_SilvaJO_1.pdf)
