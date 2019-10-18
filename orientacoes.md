@@ -2,10 +2,9 @@
 
 ### Dissertações de mestrado
 
-Felipe Venâncio Mitikiewicz Silva. Estudo de uma chaminé solar para dessalinização.
+Felipe Venâncio Mitikiewicz Silva. Estudo de dessalinização através de osmose inversa usando um ciclo Brayton alimentado por energia solar.
 
-Moisés de Paula Gouvea. Análise estrutural de um virador de vagão submetido a ventos marítimos pelo método de iteração fluido estrutural. 
-
+Paulo Fonsêcà Marinho Júnior. Estudo de uma chaminé solar para dessalinização.
 
 ### Teses de doutorado:
 
@@ -54,6 +53,8 @@ Janaína de Oliveira Castro Silva. Avaliação Numérica e Experimental de uma C
 [Versão completa](http://www.biblioteca.pucminas.br/teses/EngMecanica_SilvaJO_1.pdf)
 
 ### Dissertações de mestrado:
+
+Moisés de Paula Gouvea. Análise estrutural de um virador de vagão submetido a ventos marítimos pelo método de iteração fluido estrutural. 
 
 Jésus Fernandes Júnior. Estudo numérico e experimental do escoamento ao redor de dois cilindros circulares em um túnel de vento . 2019.
 
