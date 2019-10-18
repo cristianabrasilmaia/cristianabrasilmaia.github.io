@@ -2,6 +2,10 @@
 
 Januário, J.R. ; Maia, C.B. CFD-DEM Simulation to Predict the Critical Velocity of Slurry Flows. Journal of Applied Fluid Mechanics, 2020. (Aceito para publicação. Disponível online)
 
+Lima, L.; Abreu, L.D.; Maia, C.B. Brito, P.P. Corrosion Behavior of Austenitic Stainless Steel Welds Prepared by Dual Protection GTAW Process in 0.5 MH2so4 and 3.5% wt. NaCl. International JOurnal of Electrochemical Science, v. 14, p. 10079 – 10092, 2019. Disponível online.  doi: 10.20964/2019.11.02
+
+Januário, J.R. ; Maia, C.B. Modeling and numerical simulation of slurry flow. Brazilian Journal of Development, 2019. Disponível online. doi 10.34117/bjdv5n10-233
+
 Hanriot, S.M.; Queiroz, J.M.; Maia, C.B. Effects of variable-volume Helmholtz resonator on air mass flow rate of intake manifold. JOURNAL OF THE BRAZILIAN SOCIETY OF MECHANICAL SCIENCES AND ENGINEERING (ONLINE), v. 41, p. 1-27, 2019.
 
 Hanriot, S.M.; Brito, P.P. ; Maia, C.B.; Rêgo, A.T. Analysis of working parameters for an ammonia-water absorption refrigeration system powered by automotive exhaust gas. CASE STUDIES IN THERMAL ENGINEERING, v. 13, p. 100406, 2019.
