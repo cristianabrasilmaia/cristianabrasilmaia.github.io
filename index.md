@@ -12,6 +12,8 @@ Tenho interesse na área de Engenharia Mecânica, com ênfase em sistemas térmi
 
 ### [Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4763983J1)
 
+### [Youtube](http://youtube.com/c/CristianaBrasilMaia)
+
 ### E-mail: cristiana@pucminas.br
 
 [Disciplinas](/disciplinas.md)
