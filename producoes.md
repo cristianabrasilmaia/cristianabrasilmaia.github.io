@@ -1,8 +1,16 @@
 ## **Artigos em periódicos (Papers)**
 
-Januário, J.R. ; Maia, C.B. CFD-DEM Simulation to Predict the Critical Velocity of Slurry Flows. Journal of Applied Fluid Mechanics, 2020. (Aceito para publicação. Disponível online)
+Silva, G.M.; Ferreira, A.G.; Coutinho, R.M.; Maia, C.B. Thermodynamic Analysis of a Sustainable Hybrid Dryer. Solar Energy, v. 208, p. 388-398, 2020. doi: 10.1016/j.solener.2020.08.014
 
-Lima, L.; Abreu, L.D.; Maia, C.B. Brito, P.P. Corrosion Behavior of Austenitic Stainless Steel Welds Prepared by Dual Protection GTAW Process in 0.5 MH2so4 and 3.5% wt. NaCl. International JOurnal of Electrochemical Science, v. 14, p. 10079 – 10092, 2019. Disponível online.  doi: 10.20964/2019.11.02
+Januário, J.R. ; Maia, C.B. CFD-DEM Simulation to Predict the Critical Velocity of Slurry Flows. Journal of Applied Fluid Mechanics, v. 13, p. 161-168, 2020. Disponível online. doi: 10.29252/jafm.13.01.30350
+
+Castro Silva, J.O.; Maia, C.B. Optimization of a Small Solar Chimney. Acta Polytechnica, v. 60, n. 3, p. 225-234, 2020. Disponível online. doi: 10.14311/AP.2020.60.0225
+
+Saldanha, W.H.; Arrieta, F.R.P.; Machado-Coelho, T.M.; Santos, E.D.; Maia, C.B.; Ekel, P.I.; Soares, G.L. Evolutionary algorithms and the Preference Ranking Organization Method for Enrichment Evaluations as applied to a multiobjective design of shell-and-tube heat exchangers. Case Studies of Thermal Engineering, v. 17, 100564, 2020. Disponível online. doi: 10.1016/j.csite.2019.100564
+
+Silva, G.M.; Ferreira, A.G.; Coutinho, R.M.; Maia, C.B. Experimental Analysis of Corn Drying in a Sustainable Solar Dryer, Journal of Advanced Research in Fluid Mechanics and Thermal Sciences, v. 67, p. 1-12, 2020. Disponível online.
+
+Lima, L.; Abreu, L.D.; Maia, C.B. Brito, P.P. Corrosion Behavior of Austenitic Stainless Steel Welds Prepared by Dual Protection GTAW Process in 0.5 MH2so4 and 3.5% wt. NaCl. International Journal of Electrochemical Science, v. 14, p. 10079 – 10092, 2019. Disponível online.  doi: 10.20964/2019.11.02
 
 Januário, J.R. ; Maia, C.B. Modeling and numerical simulation of slurry flow. Brazilian Journal of Development, 2019. Disponível online. doi 10.34117/bjdv5n10-233
 
