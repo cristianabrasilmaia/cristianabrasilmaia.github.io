@@ -2,13 +2,13 @@
 
 ### Dissertações de mestrado
 
-Felipe Venâncio Mitikiewicz Silva. Estudo de dessalinização através de osmose inversa usando um ciclo Brayton alimentado por energia solar.
+Paulo Fonsêcà Marinho Júnior. Avaliação de uma chaminé solar combinada para dessalinização de água e geração de energia elétrica.
 
-Paulo Fonsêcà Marinho Júnior. Estudo de uma chaminé solar para dessalinização.
+Diogo do Carmo Zidan. Evaluation of nanofluids for parabolic trough collector in an organic Rankine cycle.
+
+Bernardo de Almeida Freitas. Estudo de um secador solar.
 
 ### Teses de doutorado:
-
-Guilherme Loyola França de Vasconcellos. Avaliação do sistema de refrigeração por absorção utilizando os gases de exaustão de um motor diesel.
 
 Matheus Dutra Baptista Oliveira. Análise computacional de escoamento multifásico em processo de filtragem.
 
@@ -36,25 +36,23 @@ Rubens Perdigão Diz Oliveira. Análise de uma recuperadora de minério utilizan
 
 Vítor Lomeu Cerqueira. Avaliação numérica e experimental de um arranjo de cilindros em um túnel de vemto.
 
-## **Co-orientações em andamento**
-
-## Teses de doutorado
-
-Cristiano Henrique Gonçalves de Brito. Análise termofluidodinâmica do desempenho de um catalisador automotivo no processo de reforma a vapor de etanol para produção de hidrogênio. 2016
-
-
 ## **Orientações concluídas**
 
 ### Tese de doutorado:
 
+Guilherme Loyola França de Vasconcellos. Avaliação energética de um sistema de refrigeração por absorção-difusão acionado pelos gases de exaustão de um motor a combustão interna.[Versão completa](http://www.biblioteca.pucminas.br/teses/EngMecanica_VasconcellosGLF_1.pdf)
+
 Gisele Mol da Silva. Análise teórica e experimental da operação de um secador solar misto de cabine com sistema fotovoltaico acoplado para secagem de grãos de milho. 2019.
+[Versão completa](http://www.biblioteca.pucminas.br/teses/EngenhariaMecanica_GiseleMolDaSilva_7863.pdf)
 
 Janaína de Oliveira Castro Silva. Avaliação Numérica e Experimental de uma Chaminé Solar Modular. 2018.
 [Versão completa](http://www.biblioteca.pucminas.br/teses/EngMecanica_SilvaJO_1.pdf)
 
 ### Dissertações de mestrado:
 
-Moisés de Paula Gouvea. Análise estrutural de um virador de vagão submetido a ventos marítimos pelo método de iteração fluido estrutural. 
+Felipe Venâncio Mitikiewicz Silva. Estudo energético de uma usina heliotérmica através de um ciclo Brayton com uma planta de dessalinização. 2020.
+
+Moisés de Paula Gouvea. Análise estrutural de um virador de vagão submetido a ventos marítimos pelo método de iteração fluido estrutural. 2019.
 
 Jésus Fernandes Júnior. Estudo numérico e experimental do escoamento ao redor de dois cilindros circulares em um túnel de vento . 2019.
 
@@ -92,4 +90,10 @@ Matheus Donizete de Queiróz. Caracterização Numérica e Experimental da Seç�
 
 Gustavo Gamaliel Alves de Souza. Análise Numérica do Escoamento de Ar na Seção de Testes de um Túnel de Vento para Baixas Velocidades. 2009. 
 [Resumo](http://www.biblioteca.pucminas.br/teses/EngMecanica_SouzaGG_1r.pdf)
+
+## **Co-orientações concluídas**
+
+## Teses de doutorado
+
+Cristiano Henrique Gonçalves de Brito. Análise termofluidodinâmica do desempenho de um catalisador automotivo no processo de reforma a vapor de etanol para produção de hidrogênio. 2016
 
