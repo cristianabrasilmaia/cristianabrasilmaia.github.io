@@ -96,4 +96,4 @@ Gustavo Gamaliel Alves de Souza. Análise Numérica do Escoamento de Ar na Seç�
 ## Teses de doutorado
 
 Cristiano Henrique Gonçalves de Brito. Análise termofluidodinâmica do desempenho de um catalisador automotivo no processo de reforma a vapor de etanol para produção de hidrogênio. 2016
-
+[Resumo](http://www.biblioteca.pucminas.br/teses/EngenhariaMecanica_CristianoHenriqueGoncalvesDeBrito_8088.pdf)
