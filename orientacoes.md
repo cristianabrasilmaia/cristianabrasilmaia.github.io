@@ -22,19 +22,17 @@ Paulo Tibúrcio Pereira. Estudo e otimização do aquecimento por indução elet
 
 ### Iniciação científica
 
-Leonardo Batista Diniz. Avaliação da influência das condições de ensaio na eficiência de um coletor solar fechado.
+Bárbara Vilhena Costa Neves. Estudo da eficiência de um coletor solar para aquecimento de água. 
 
-João Arthur Daconti e Silva. Análise numérica de uma chaminé solar de pequenas dimensões.
+Matheus Feliphe Rodrigues Moreira. Análise computacional do escoamento de fluido multifásico em processo de filtragem. 
 
-Diogo do Carmo Zidan. Avaliação de um secador híbrido solar-elétrico.
+Mauro Pedro Antunes Barbosa. Avaliação da estabilidade de equipamentos de movimento provocados pela ação do vento.
 
-Rêydila Rayenne Caminhas Barbosa. Avaliação de um secador híbrido solar-elétrico.
+Marcus Vinícius Braga Bazzoni. Desenvolvimento de um modelo matemático para avaliação de coletores solares de piscina.
 
-Caio Almeida Friche Passos. Análise de uma recuperadora de minério utilizando o método de interação fluido estrutura.
+Roan Borges de Thuin. Desenvolvimento de um modelo matemático para avaliação de coletores solares de piscina.
 
-Rubens Perdigão Diz Oliveira. Análise de uma recuperadora de minério utilizando o método de interação fluido estrutura.
-
-Vítor Lomeu Cerqueira. Avaliação numérica e experimental de um arranjo de cilindros em um túnel de vemto.
+Tássia Luíza Ferreira Morais. Desenvolvimento de um modelo matemático para avaliação de coletores solares de piscina.
 
 ## **Orientações concluídas**
 
