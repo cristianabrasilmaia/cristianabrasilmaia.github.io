@@ -10,6 +10,9 @@ Saldanha, W.H.; Arrieta, F.R.P.; Machado-Coelho, T.M.; Santos, E.D.; Maia, C.B.;
 
 Silva, G.M.; Ferreira, A.G.; Coutinho, R.M.; Maia, C.B. Experimental Analysis of Corn Drying in a Sustainable Solar Dryer, Journal of Advanced Research in Fluid Mechanics and Thermal Sciences, v. 67, p. 1-12, 2020. Disponível online.
 
+Vasconcellos, G.L.F., Oliveira, A., Queiroz, M.D., Landre Jr., J., Maia, C.B. Flow Past a Circular Cylinder: A Comparison Between Commercial Finite Volume and
+Finite Element Codes. Advanced Science, Engineering and Medicine, vol. 12, n. 7, p. 815-824, 2020. 
+
 Lima, L.; Abreu, L.D.; Maia, C.B. Brito, P.P. Corrosion Behavior of Austenitic Stainless Steel Welds Prepared by Dual Protection GTAW Process in 0.5 MH2so4 and 3.5% wt. NaCl. International Journal of Electrochemical Science, v. 14, p. 10079 – 10092, 2019. Disponível online.  doi: 10.20964/2019.11.02
 
 Januário, J.R. ; Maia, C.B. Modeling and numerical simulation of slurry flow. Brazilian Journal of Development, 2019. Disponível online. doi 10.34117/bjdv5n10-233
