@@ -1,5 +1,8 @@
 ## **Artigos em periódicos (Papers)**
 
+Silva, G.M.; Ferreira, A.G.; Coutinho, R.M.; Maia, C.B. Energy and exergy analysis of the drying of corn grains. Renewable Energy, v. 163, p. 1942-1950, 2021.
+doi: doi.org/10.1016/j.renene.2020.10.116
+
 Silva, G.M.; Ferreira, A.G.; Coutinho, R.M.; Maia, C.B. Thermodynamic Analysis of a Sustainable Hybrid Dryer. Solar Energy, v. 208, p. 388-398, 2020. doi: 10.1016/j.solener.2020.08.014
 
 Januário, J.R. ; Maia, C.B. CFD-DEM Simulation to Predict the Critical Velocity of Slurry Flows. Journal of Applied Fluid Mechanics, v. 13, p. 161-168, 2020. Disponível online. doi: 10.29252/jafm.13.01.30350
