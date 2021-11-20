@@ -2,11 +2,13 @@
 
 ### Dissertações de mestrado
 
-Paulo Fonsêcà Marinho Júnior. Avaliação de uma chaminé solar combinada para dessalinização de água e geração de energia elétrica.
-
 Diogo do Carmo Zidan. Evaluation of nanofluids for parabolic trough collector in an organic Rankine cycle.
 
 Bernardo de Almeida Freitas. Estudo de um secador solar.
+
+Lucas Rodrigues Neumann. Análise termodinâmica de uma instalação CSP com torre solar usando sal fundido.
+
+Ígor Marques Alves. Estudo de sais fundidos para termodinâmico de uma instalação CSP com torre solar.
 
 ### Teses de doutorado:
 
@@ -20,19 +22,17 @@ Hairton Júnior José da Silveira. Análise Termoeconômica de um ciclo Rankine 
 
 Paulo Tibúrcio Pereira. Estudo e otimização do aquecimento por indução eletromagnética comparando materiais e frequências de operação.
 
+### Doutorado sanduíche
+
+Mario Di Capua Hidalgo. Entropy Generation Assessment in Thermoelectric Self-Cooling Systems for Electronic Devices. Pontificia Universidad Católica de Chile.
+
 ### Iniciação científica
 
-Bárbara Vilhena Costa Neves. Estudo da eficiência de um coletor solar para aquecimento de água. 
+Elisa Ishitani Melo. Análise termodinâmica de uma planta heliotérmica utilizando torre solar.
 
-Matheus Feliphe Rodrigues Moreira. Análise computacional do escoamento de fluido multifásico em processo de filtragem. 
+André Sá Alves Vilela. Análise termodinâmica de uma planta heliotérmica utilizando torre solar.
 
-Mauro Pedro Antunes Barbosa. Avaliação da estabilidade de equipamentos de movimento provocados pela ação do vento.
-
-Marcus Vinícius Braga Bazzoni. Desenvolvimento de um modelo matemático para avaliação de coletores solares de piscina.
-
-Roan Borges de Thuin. Desenvolvimento de um modelo matemático para avaliação de coletores solares de piscina.
-
-Tássia Luíza Ferreira Morais. Desenvolvimento de um modelo matemático para avaliação de coletores solares de piscina.
+Rafael Amauri Diniz Augusto. Previsão da irradiação solar utilizando análise de imagens. 
 
 ## **Orientações concluídas**
 
@@ -47,6 +47,8 @@ Janaína de Oliveira Castro Silva. Avaliação Numérica e Experimental de uma C
 [Versão completa](http://www.biblioteca.pucminas.br/teses/EngMecanica_SilvaJO_1.pdf)
 
 ### Dissertações de mestrado:
+
+Paulo Fonsêcà Marinho Júnior. Avaliação de uma chaminé solar combinada para dessalinização de água e geração de energia elétrica.
 
 Felipe Venâncio Mitikiewicz Silva. Estudo energético de uma usina heliotérmica através de um ciclo Brayton com uma planta de dessalinização. 2020.
 
