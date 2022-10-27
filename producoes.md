@@ -1,5 +1,11 @@
 ## **Artigos em periódicos (Papers)**
 
+Zidan, D.C; Maia, C.B.; Reza Safaei, M. Performance evaluation of various nanofluids for parabolic trough collectors. SUSTAINABLE ENERGY TECHNOLOGIES AND ASSESSMENTS AN INTERNATIONAL JOURNAL, v. 50, p. 101865, 2022. doi: 10.1016/j.seta.2021.101865
+
+Maia, C.B.; Silva, F.V.M; Cabezas-Gómez, L. A CSP-desalination system using a supercritical carbon dioxide Brayton cycle in Brazil. Journal of the Brazilian Society of Mechanical Sciences and Engineering, v. 44, p. 154, 2022. doi: 10.1007/s40430-022-03463-5
+
+Maia, C.B.; Castro Silva, J.O. Thermodynamic assessment of a small-scale solar chimney. Renewable Energy, v. 186, p. 35-50, 2022. doi: 10.1016/j.renene.2021.12.128
+
 Silva, G.M.; Ferreira, A.G.; Coutinho, R.M.; Maia, C.B. Energy and exergy analysis of the drying of corn grains. Renewable Energy, v. 163, p. 1942-1950, 2021.
 doi: doi.org/10.1016/j.renene.2020.10.116
 
