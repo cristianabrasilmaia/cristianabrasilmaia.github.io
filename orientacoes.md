@@ -2,13 +2,14 @@
 
 ### Dissertações de mestrado
 
-Diogo do Carmo Zidan. Evaluation of nanofluids for parabolic trough collector in an organic Rankine cycle.
-
-Bernardo de Almeida Freitas. Estudo de um secador solar.
-
 Lucas Rodrigues Neumann. Análise termodinâmica de uma instalação CSP com torre solar usando sal fundido.
 
 Ígor Marques Alves. Estudo de sais fundidos para termodinâmico de uma instalação CSP com torre solar.
+
+Gabriel Mariz Borges da Cruz. Análise da secagem de malte em um secador híbrido solar-elétrico.
+
+João Pedro Lamounier Antunes de Almeida. Efeito do rendimento de um compressor no dimensionamento de trocadores de calor de um sistema de refrigeração.
+
 
 ### Teses de doutorado:
 
@@ -30,9 +31,9 @@ Mario Di Capua Hidalgo. Entropy Generation Assessment in Thermoelectric Self-Coo
 
 Elisa Ishitani Melo. Análise termodinâmica de uma planta heliotérmica utilizando torre solar.
 
-André Sá Alves Vilela. Análise termodinâmica de uma planta heliotérmica utilizando torre solar.
-
 Rafael Amauri Diniz Augusto. Previsão da irradiação solar utilizando análise de imagens. 
+
+Frederico Carlos Moraes Hippert Soares. Análise experimental de um secador híbrido solar elétrico alimentado por um sistema fotovoltaico.
 
 ## **Orientações concluídas**
 
@@ -48,11 +49,13 @@ Janaína de Oliveira Castro Silva. Avaliação Numérica e Experimental de uma C
 
 ### Dissertações de mestrado:
 
+Diogo do Carmo Zidan. Evaluation of nanofluids for a parabolic trough collector in an organic Rankine cycle. 2022. [Versão completa] http://www.biblioteca.pucminas.br/teses/EngenhariaMecanica_DiogoDoCarmoZidan_29878_Textocompleto.pdf
+
 Paulo Fonsêcà Marinho Júnior. Avaliação de uma chaminé solar combinada para dessalinização de água e geração de energia elétrica.
 
-Felipe Venâncio Mitikiewicz Silva. Estudo energético de uma usina heliotérmica através de um ciclo Brayton com uma planta de dessalinização. 2020.
+Felipe Venâncio Mitikiewicz Silva. Estudo energético de uma usina heliotérmica através de um ciclo Brayton com uma planta de dessalinização. 2020. [Versão completa] http://www.biblioteca.pucminas.br/teses/EngenhariaMecanica_FelipeVenancioMitkiewiczSilva_8776.pdf
 
-Moisés de Paula Gouvea. Análise estrutural de um virador de vagão submetido a ventos marítimos pelo método de iteração fluido estrutural. 2019.
+Moisés de Paula Gouvea. Análise estrutural de um virador de vagão submetido a ventos marítimos pelo método de iteração fluido estrutural. 2019. [Versão completa](http://www.biblioteca.pucminas.br/teses/EngenhariaMecanica_MoisesDePaulaGouvea_8090.pdf)
 
 Jésus Fernandes Júnior. Estudo numérico e experimental do escoamento ao redor de dois cilindros circulares em um túnel de vento . 2019.
 
