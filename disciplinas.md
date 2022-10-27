@@ -14,7 +14,12 @@ Atividades práticas envolvendo o conteúdo de mecânica dos fluidos e máquinas
 ### Termodinâmica
 Engenharia Mecânica (5º período – noite)
 Ementa:
-Conceitos fundamentais. Energia e primeira Lei da Termodinâmica. Propriedades de uma substância pura, simples e compreensível. Análise de energia para um volume de controle. Segunda Lei da Termodinâmica. Entropia.
+Conceitos fundamentais da termodinâmica: calor, trabalho e energia. Propriedades termodinâmicas de uma substância pura, simples e compressível. Propriedades de um gás ideal. Primeira e segunda leis da Termodinâmica para sistemas fechados e volumes de controle. Ciclos termodinâmicos: Rankine, Brayton e de refrigeração.
+
+### Transferência de Calor
+Engenharia Química (6º período – manhã)
+Ementa:
+Conceitos fundamentais da transferência de calor. Condução unidimensional em regime permanente. Condução bidimensional em regime permanente. Condução em regime transiente. Princípios da convecção. Relações em´´iricas e práticas para a transferência de calor em convecção forçada. Convecção natural. Transferência de calor por radiação. 
 
 ## **Pós-graduação**
 
