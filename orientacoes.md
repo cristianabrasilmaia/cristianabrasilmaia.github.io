@@ -31,7 +31,7 @@ Mario Di Capua Hidalgo. Entropy Generation Assessment in Thermoelectric Self-Coo
 
 Elisa Ishitani Melo. Análise termodinâmica de uma planta heliotérmica utilizando torre solar.
 
-Rafael Amauri Diniz Augusto. Previsão da irradiação solar utilizando análise de imagens. 
+Rafael Amauri Diniz Augusto e João Vitor Silva Nazareth. Previsão da irradiação solar utilizando análise de imagens. 
 
 Frederico Carlos Moraes Hippert Soares. Análise experimental de um secador híbrido solar elétrico alimentado por um sistema fotovoltaico.
 
