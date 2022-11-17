@@ -53,7 +53,7 @@ Felipe Venâncio Mitikiewicz Silva. Estudo energético de uma usina heliotérmic
 
 Moisés de Paula Gouvea. Análise estrutural de um virador de vagão submetido a ventos marítimos pelo método de iteração fluido estrutural. 2019. [Versão completa](http://www.biblioteca.pucminas.br/teses/EngenhariaMecanica_MoisesDePaulaGouvea_8090.pdf)
 
-Jésus Fernandes Júnior. Estudo numérico e experimental do escoamento ao redor de dois cilindros circulares em um túnel de vento . 2019.
+Jésus Fernandes Júnior. Estudo numérico e experimental do escoamento ao redor de dois cilindros circulares em um túnel de vento. 2019.
 
 Paulo Vieira Netto. Estudo da redução de atrito em um motor de combustão interna através da melhoria do circuito de lubrificação. 2017.
 [Versão completa](http://www.biblioteca.pucminas.br/teses/EngMecanica_NettoPV_1.pdf)
@@ -84,7 +84,7 @@ Alessandro Zanetti. Condicionamento de Ar de um Veículo Através de um Ciclo de
 Fabrício Cardinali Rezende. Avaliação experimental da distribuição de temperaturas nos componentes plásticos de um veículo. 2010. 
 [Versão completa](http://www.biblioteca.pucminas.br/teses/EngMecanica_RezendeFC_1.pdf)
 
-Matheus Donizete de Queiróz. Caracterização Numérica e Experimental da Seção de Testes de um Túnel de > Vento para Baixas Velocidades.2010. 
+Matheus Donizete de Queiróz. Caracterização Numérica e Experimental da Seção de Testes de um Túnel de Vento para Baixas Velocidades.2010. 
 [Versão completa](http://www.biblioteca.pucminas.br/teses/EngMecanica_QueirozMD_1.pdf)
 
 Gustavo Gamaliel Alves de Souza. Análise Numérica do Escoamento de Ar na Seção de Testes de um Túnel de Vento para Baixas Velocidades. 2009. 
