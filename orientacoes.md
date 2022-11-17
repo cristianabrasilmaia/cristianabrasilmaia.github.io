@@ -23,10 +23,6 @@ Hairton Júnior José da Silveira. Análise Termoeconômica de um ciclo Rankine 
 
 Paulo Tibúrcio Pereira. Estudo e otimização do aquecimento por indução eletromagnética comparando materiais e frequências de operação.
 
-### Doutorado sanduíche
-
-Mario Di Capua Hidalgo. Entropy Generation Assessment in Thermoelectric Self-Cooling Systems for Electronic Devices. Pontificia Universidad Católica de Chile.
-
 ### Iniciação científica
 
 Elisa Ishitani Melo. Análise termodinâmica de uma planta heliotérmica utilizando torre solar.
@@ -93,6 +89,10 @@ Matheus Donizete de Queiróz. Caracterização Numérica e Experimental da Seç�
 
 Gustavo Gamaliel Alves de Souza. Análise Numérica do Escoamento de Ar na Seção de Testes de um Túnel de Vento para Baixas Velocidades. 2009. 
 [Resumo](http://www.biblioteca.pucminas.br/teses/EngMecanica_SouzaGG_1r.pdf)
+
+### Doutorado sanduíche
+
+Mario Di Capua Hidalgo. Entropy Generation Assessment in Thermoelectric Self-Cooling Systems for Electronic Devices. Pontificia Universidad Católica de Chile.
 
 ## **Co-orientações concluídas**
 
