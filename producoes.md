@@ -1,5 +1,7 @@
 ## **Artigos em periódicos (Papers)**
 
+Maia, C.B.; Castro Silva, J.O. CFD Analysis of a Small-Scale Solar Chimney Exposed to Ambient Crosswind. Sustainability, 14(22), 15208; doi: 10.3390/su142215208
+
 Zidan, D.C; Maia, C.B.; Reza Safaei, M. Performance evaluation of various nanofluids for parabolic trough collectors. SUSTAINABLE ENERGY TECHNOLOGIES AND ASSESSMENTS AN INTERNATIONAL JOURNAL, v. 50, p. 101865, 2022. doi: 10.1016/j.seta.2021.101865
 
 Maia, C.B.; Silva, F.V.M; Cabezas-Gómez, L. A CSP-desalination system using a supercritical carbon dioxide Brayton cycle in Brazil. Journal of the Brazilian Society of Mechanical Sciences and Engineering, v. 44, p. 154, 2022. doi: 10.1007/s40430-022-03463-5
