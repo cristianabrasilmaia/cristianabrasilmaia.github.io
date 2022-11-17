@@ -1,6 +1,6 @@
 ## **Artigos em periódicos (Papers)**
 
-Maia, C.B.; Castro Silva, J.O. CFD Analysis of a Small-Scale Solar Chimney Exposed to Ambient Crosswind. Sustainability, 14(22), 15208; doi: 10.3390/su142215208
+Maia, C.B.; Castro Silva, J.O. CFD Analysis of a Small-Scale Solar Chimney Exposed to Ambient Crosswind. Sustainability, 14(22), 15208; doi: 10.3390/su142215208 [Pdf](https://www.mdpi.com/2071-1050/14/22/15208)
 
 Zidan, D.C; Maia, C.B.; Reza Safaei, M. Performance evaluation of various nanofluids for parabolic trough collectors. SUSTAINABLE ENERGY TECHNOLOGIES AND ASSESSMENTS AN INTERNATIONAL JOURNAL, v. 50, p. 101865, 2022. doi: 10.1016/j.seta.2021.101865
 
