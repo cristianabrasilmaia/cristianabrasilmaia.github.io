@@ -2,6 +2,8 @@
 
 ### Dissertações de mestrado
 
+Fernando Jardim Borges da Cunha. Estimativa do potencial de hidrogênio verde em Minas Gerais a partir de energia solar.
+
 Lucas Rodrigues Neumann. Análise termodinâmica de uma instalação CSP com torre solar usando sal fundido.
 
 Ígor Marques Alves. Estudo de sais fundidos para termodinâmico de uma instalação CSP com torre solar.
@@ -19,17 +21,22 @@ João Rodolfo Januário. Análise da estabilidade de equipamentos de movimentaç
 
 Hairton Júnior José da Silveira. Análise Termoeconômica de um ciclo Rankine Orgânico Solar. 
 
-### Pós-doutorado
-
-Paulo Tibúrcio Pereira. Estudo e otimização do aquecimento por indução eletromagnética comparando materiais e frequências de operação.
-
 ### Iniciação científica
 
-Elisa Ishitani Melo. Análise termodinâmica de uma planta heliotérmica utilizando torre solar.
+Gabriel Ângelo Gonçalves de Almeida . Análise termodinâmica de uma planta heliotérmica utilizando torre solar.
 
-Rafael Amauri Diniz Augusto e João Vitor Silva Nazareth. Previsão da irradiação solar utilizando análise de imagens. 
+João Vitor Silva Nazareth e Ricardo Henrique Guedes Furiati. Previsão da irradiação solar em Minas Gerais utilizando técnicas de inteligência artificial 
 
 Frederico Carlos Moraes Hippert Soares. Análise experimental de um secador híbrido solar elétrico alimentado por um sistema fotovoltaico.
+
+Maria Clara de Oliveira Costa Vasconcelos. Estimativa do potencial de hidrogênio verde em Minas Gerais a partir de energia solar
+
+
+## **Co-orientações em andamento**
+
+## Dissertações de mestrado
+Saulo Amador Bonfim. Estudo do desempenho de um gerador fotovoltaico flutuante
+
 
 ## **Orientações concluídas**
 
