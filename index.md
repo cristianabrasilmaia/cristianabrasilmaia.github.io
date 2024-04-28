@@ -1,6 +1,5 @@
 ![GitHub logo](/foto.jpg)
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6166527984563338"
-     crossorigin="anonymous"></script>
+
 # Cristiana Brasil Maia
 
 ## [English](/english.md)
